@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name PCB_Scope_Transceivers)(type Legacy)(uri ${KIPRJMOD}/transceivers.lib)(options "")(descr ""))
+  (lib (name PCB_Scope_MCUs)(type Legacy)(uri ${KIPRJMOD}/mcu.lib)(options "")(descr ""))
+  (lib (name PCB_Scope-rescue)(type Legacy)(uri ${KIPRJMOD}/PCB_Scope-rescue.lib)(options "")(descr ""))
+  (lib (name PCB_Scope_PowerManagement)(type Legacy)(uri ${KIPRJMOD}/power_management.lib)(options "")(descr ""))
+)
