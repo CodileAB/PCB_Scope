@@ -1,0 +1,6 @@
+Wolley Scope
+------------
+
+Wolley Scope is a CAN bus analyzer made primarily for the Wolley ecosystem.
+
+It communicates with the PC over UART using an FT232XS.
